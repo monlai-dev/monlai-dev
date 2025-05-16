@@ -11,22 +11,6 @@ Love to explore more about system design and architecture ^^
 
 ---
 
-## 🚀 Top Projects
-
-- [unity_socket](https://github.com/monlai-dev/unity_socket)  
-  A Go-based socket communication library for Unity.  
-  ⭐ 0 | 🥇 Language: Go | Forks: 0 | Issues: 0  
-
-- [go_hello_world](https://github.com/monlai-dev/go_hello_world)  
-  A simple 'Hello World' application in Go.  
-  ⭐ 0 | 🥇 Language: Go | Forks: 0 | Issues: 0  
-
-- [koi_auction_website](https://github.com/monlai-dev/koi_auction_website)  
-  A web application for conducting koi auctions.  
-  ⭐ 0 | 🥇 Language: JavaScript | Forks: 0 | Issues: 0
-
----
-
 ## 📊 GitHub Stats
 
 🌟 Public Repositories: 3  
